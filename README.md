@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=steve-anson&label=Profile%20views&color=0e75b6&style=flat" alt="steve-anson" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Javascript**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **Javascript**
 
 - 📫 How to reach me **steveanson12@gmail.com**
 
